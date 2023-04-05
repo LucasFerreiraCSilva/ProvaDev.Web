@@ -1,0 +1,125 @@
+body{
+    background-color: bisque;
+
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+li{
+    top: 0;
+    display: inline;
+    float: left;
+    }
+a{
+    display: block;
+    top: 0;
+    padding: 35px;
+    background-color: rgb(134, 23, 23);
+    color: white;
+    top: 0;
+    text-decoration: none;
+    width: 199px;
+    height: 35px;
+    text-align: center;
+    right: 80%;
+    font-family: fantasy;
+}
+li a:hover{ 
+    background-color: rgb(109, 32, 32);
+}
+img{
+    width: 100%;
+    height: 700px;
+}
+h1{
+    padding: 100px;
+    left: 60%;
+    height: 210px;
+    width: 150px;
+    text-align: center;
+    color: rgb(109, 32, 32);
+    font-family: fantasy;
+}
+.p1{
+    padding-left: 30px;
+    padding-top: 30px;
+    left: 60%;
+    height: 700px;
+    width: 300px;
+    font-family: fantasy;
+    text-align: center;
+    font-size: large;
+    
+}
+img:nth-of-type(2){
+    padding-right: 70px;
+    position: absolute;
+    top: 1000px;
+    right: 50px;
+    height: 250px;
+    width: 250px;
+}
+img:nth-of-type(3){
+    padding-right: 70px;
+    position: absolute;
+    top: 1000px;
+    right: 350px;
+    height: 250px;
+    width: 250px;
+}
+img:nth-of-type(4){
+    padding-right: 70px;
+    padding-top: 10px;
+    position: absolute;
+    top: 1250px;
+    right: 50px;
+    height: 250px;
+    width: 250px;
+}
+img:nth-of-type(5){
+    padding-right: 70px;
+    padding-right: 70px;
+    padding-top: 10px;
+    position: absolute;
+    top: 1250px;
+    right: 350px;
+    height: 250px;
+    width: 250px;
+}
+img:nth-of-type(6){
+    padding-right: 70px;
+    padding-top: 20px;
+    position: absolute;
+    top: 1500px;
+    right: 50px;
+    height: 250px;
+    width: 250px;
+}
+img:nth-of-type(7){
+    padding-right: 70px;
+    padding-top: 20px;
+    position: absolute;
+    top: 1500px;
+    right: 350px;
+    height: 250px;
+    width: 250px;
+
+}
+.li2{
+        bottom: 0;
+        display: inline;
+        float: left;
+}
+.a2{
+    display: block;
+    padding: 35px;
+    background-color: rgb(134, 23, 23);
+    left: 0;
+    bottom: 0;
+    text-decoration: none;
+    width: 1818px;
+    height: 35px;
+    
+}
